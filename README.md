@@ -26,7 +26,11 @@ On Linux distribution: <br>
 </ul>
 
 Once these steps are done, the code is compiled and you can run it entering:<br>
-<strong> ./bin/main data/map.txt nb_prey nb_predator </strong>
+<ul>
+  <li> <strong> ./bin/main data/map.txt nb_preys nb_predators </strong>  </li>
+</ul>
+
+where <strong> nb_preys </strong> and <strong> nb_predators </strong> are integers and represent respectively the initial number of preys and predators
 
 
 ## Getting help
